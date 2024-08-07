@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389943753870",
+    "project_id": "bird-wallpaper-ce5c6",
+    "storage_bucket": "bird-wallpaper-ce5c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389943753870:android:cd8568e239278bd5501ddf",
+        "android_client_info": {
+          "package_name": "com.hd.bird"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlGy-BypymZRCCCRYwLVoSuGppsKFN4mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
